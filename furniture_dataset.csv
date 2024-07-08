@@ -1,0 +1,61 @@
+Product ID,Name,Category,Price,Stock Quantity,Ratings
+1,Modern Sofa,Living Room,499.99,25,4.5
+2,Classic Armchair,Living Room,299.99,15,4.2
+3,Oak Coffee Table,Living Room,199.99,30,4.8
+4,Rustic Bookshelf,Living Room,249.99,20,4.7
+5,King Size Bed,Bedroom,699.99,10,4.9
+6,Queen Size Bed,Bedroom,599.99,12,4.6
+7,Nightstand,Bedroom,149.99,35,4.4
+8,Dresser,Bedroom,399.99,18,4.7
+9,Office Desk,Office,299.99,22,4.3
+10,Ergonomic Chair,Office,199.99,25,4.6
+11,Conference Table,Office,499.99,8,4.5
+12,Bookshelf,Office,199.99,27,4.4
+13,Patio Set,Outdoor,599.99,10,4.8
+14,Garden Chair,Outdoor,149.99,40,4.3
+15,Sun Lounger,Outdoor,299.99,15,4.7
+16,Outdoor Table,Outdoor,249.99,18,4.5
+17,Dining Table,Dining Room,699.99,12,4.9
+18,Dining Chair Set,Dining Room,499.99,20,4.8
+19,Buffet Cabinet,Dining Room,399.99,15,4.6
+20,Bar Stool,Dining Room,149.99,30,4.4
+21,TV Stand,Living Room,249.99,25,4.7
+22,Recliner Sofa,Living Room,799.99,10,4.8
+23,Wall Shelf,Living Room,99.99,40,4.5
+24,Sectional Sofa,Living Room,899.99,8,4.9
+25,Bunk Bed,Bedroom,499.99,15,4.7
+26,Wardrobe,Bedroom,599.99,10,4.6
+27,Vanity Set,Bedroom,299.99,18,4.5
+28,Ottoman,Bedroom,149.99,25,4.4
+29,Workstation,Office,499.99,12,4.7
+30,Filing Cabinet,Office,199.99,30,4.3
+31,Office Sofa,Office,399.99,10,4.5
+32,Desk Lamp,Office,49.99,50,4.2
+33,Swing Chair,Outdoor,349.99,15,4.8
+34,BBQ Table,Outdoor,299.99,12,4.6
+35,Garden Bench,Outdoor,249.99,20,4.5
+36,Picnic Table,Outdoor,399.99,10,4.7
+37,Hutch,Dining Room,499.99,15,4.8
+38,China Cabinet,Dining Room,799.99,8,4.9
+39,Bar Table,Dining Room,299.99,18,4.5
+40,Kitchen Island,Dining Room,699.99,10,4.7
+41,Loveseat,Living Room,399.99,20,4.6
+42,Accent Chair,Living Room,249.99,25,4.4
+43,Sleeper Sofa,Living Room,599.99,12,4.5
+44,Chaise Lounge,Living Room,499.99,15,4.8
+45,Trundle Bed,Bedroom,399.99,18,4.7
+46,Mattress,Bedroom,499.99,20,4.6
+47,Headboard,Bedroom,199.99,25,4.4
+48,Desk Organizer,Office,29.99,50,4.2
+49,Standing Desk,Office,399.99,15,4.7
+50,Patio Umbrella,Outdoor,149.99,30,4.5
+51,Garden Table,Outdoor,249.99,20,4.6
+52,Dining Bench,Dining Room,199.99,25,4.7
+53,Wine Rack,Dining Room,149.99,30,4.4
+54,TV Console,Living Room,349.99,20,4.6
+55,End Table,Living Room,149.99,35,4.5
+56,Armoire,Bedroom,599.99,12,4.7
+57,Bedside Table,Bedroom,149.99,40,4.5
+58,Desk Chair,Office,199.99,30,4.6
+59,Patio Sofa,Outdoor,499.99,10,4.7
+60,Chaise Sofa,Living Room,799.99,12,4.8
